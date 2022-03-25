@@ -1,0 +1,324 @@
+{
+    "Questions": [
+        {
+            "question": "I  have to do certain jobs unwillingly owing to group/political pressures (0)",
+            "answers": [
+                "Very often",
+                "  Often ",
+                " Occasionally ",
+                " Rarely "
+            ]
+        },
+        {
+            "question": "I  have to do certain jobs unwillingly owing to group/political pressures ",
+            "answers": [
+                "Very often",
+                "  Often ",
+                " Occasionally ",
+                " Rarely "
+            ]
+        },
+        {
+            "question": "I have targets & deadlines which are nearly impossible ",
+            "answers": [
+                "Very often",
+                "  Often ",
+                " Occasionally ",
+                " Rarely "
+            ]
+        },
+        {
+            "question": "The objectives of my work role are quite clear and adequately planned.     ",
+            "answers": [
+                "Strongly disagree",
+                "Disagree",
+                "agree",
+                "Strongly agree"
+            ]
+        },
+        {
+            "question": "Excessive work load makes me compromise on the quality of work ",
+            "answers": [
+                "Very often",
+                " Often ",
+                "Very rarely",
+                " Never "
+            ]
+        },
+        {
+            "question": "I am not able to adapt to  technology at work ",
+            "answers": [
+                "To a very great extent",
+                "To some extent",
+                "To a very little extent",
+                "Never"
+            ]
+        },
+        {
+            "question": "I feel I am unable to control important things of my work  ",
+            "answers": [
+                "Very often",
+                " Often ",
+                " Almost never ",
+                " Never "
+            ]
+        },
+        {
+            "question": "I get upset because of something that happened unexpectedly at work ? ",
+            "answers": [
+                "Very often",
+                " Often ",
+                " Almost never ",
+                " Never "
+            ]
+        },
+        {
+            "question": "I feel  nervous/agitated during reviews/deadlines",
+            "answers": [
+                "Very often",
+                " Often ",
+                " Almost never ",
+                " Never "
+            ]
+        },
+        {
+            "question": "I feel Iike giving up at difficult situations at work  ",
+            "answers": [
+                " Never ",
+                " Almost never ",
+                " Often ",
+                "Very often"
+            ]
+        },
+        {
+            "question": "I feel exhausted due to excessive workload",
+            "answers": [
+                "Very often",
+                " Often ",
+                " Almost never ",
+                " Never "
+            ]
+        },
+        {
+            "question": "My work is aligned to my career goals and enhances my skills personally and professionally",
+            "answers": [
+                "Seldom",
+                "To a little extent",
+                "To some extent",
+                "To a very great extent"
+            ]
+        },
+        {
+            "question": "Work gives me the sense of accomplishment /satisfaction",
+            "answers": [
+                " Never ",
+                " Rarely",
+                " Often ",
+                "Very often"
+            ]
+        },
+        {
+            "question": "I have a supportive supervisor who supports me through emotional situations at work place",
+            "answers": [
+                "Strongly disagree",
+                "Disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+        },
+        {
+            "question": "I am happy with fringe benefits /perks at work ",
+            "answers": [
+                " Never ",
+                "Rarely",
+                " Often ",
+                "Very often"
+            ]
+        },
+        {
+            "question": "I feel I have good opportunity for advancement /promotion policies",
+            "answers": [
+                "Strongly disagree",
+                "Disagree",
+                "Agree",
+                "Strongly agree"
+            ]
+        },
+        {
+            "question": "I work on another job in addition to this one",
+            "answers": [
+                " Never ",
+                " Rarely",
+                " Often ",
+                "Very often"
+            ]
+        },
+        {
+            "question": "I spend time with friends and family",
+            "answers": [
+                " Rarely",
+                " Sometimes ",
+                " Often ",
+                "Very often"
+            ]
+        },
+        {
+            "question": "Do you think of work when you are falling asleep at night?",
+            "answers": [
+                "Very often",
+                " Often ",
+                " Rarely",
+                "Very rarely "
+            ]
+        },
+        {
+            "question": "I get enough time to involve in personal hobby activities ",
+            "answers": [
+                " Never ",
+                " Almost never ",
+                " Often ",
+                "Very often"
+            ]
+        },
+        {
+            "question": "At home, how often do you check work emails on phone?",
+            "answers": [
+                " Never ",
+                " Almost never ",
+                " Often ",
+                "Very often"
+            ]
+        },
+        {
+            "question": "I have difficulty with being on time",
+            "answers": [
+                "Very often",
+                " Often ",
+                "Rarely ",
+                " Never"
+            ]
+        },
+        {
+            "question": "I experience harassment/discrimination at my work place ",
+            "answers": [
+                "Very likely",
+                "likely",
+                "unlikely",
+                "very unlikely "
+            ]
+        },
+        {
+            "question": "I feel insecure due to the company prospects/ terms & conditions",
+            "answers": [
+                "Very often",
+                " Often ",
+                " Occasionally ",
+                " Never"
+            ]
+        },
+        {
+            "question": "I experiences poor leadership at work",
+            "answers": [
+                "Strongly agree",
+                "agree",
+                "Disagree",
+                "Strongly disagree"
+            ]
+        },
+        {
+            "question": "I feel bad about spending more time at work",
+            "answers": [
+                "Very often",
+                " Often ",
+                " Occasionally ",
+                " Never"
+            ]
+        },
+        {
+            "question": "I keep myself well hydrated and maintain healthy diet even at work",
+            "answers": [
+                "Very unlikely ",
+                "Unlikely",
+                "Likely",
+                "Very likely"
+            ]
+        },
+        {
+            "question": "I keep a check my posture and take adequate quick breaks at work ",
+            "answers": [
+                "Very unlikely ",
+                "Unlikely",
+                "Likely",
+                "Very likely"
+            ]
+        },
+        {
+            "question": "I over dose my self with tea/coffee at work ",
+            "answers": [
+                "Very often",
+                " Often ",
+                " Occasionally ",
+                " Rarely "
+            ]
+        },
+        {
+            "question": "I compromise on my exercise schedule due to work load/shifts at work",
+            "answers": [
+                "Very often",
+                " Often ",
+                " Occasionally ",
+                " Rarely "
+            ]
+        },
+        {
+            "question": "I shorten my sleep due to work load",
+            "answers": [
+                "Very often",
+                " Often",
+                " Occasionally ",
+                " Rarely "
+            ]
+        }
+    ],
+    "SegmentNames": [
+        "Occupational stress",
+        "Mental toughness",
+        "Job satisfaction",
+        "Work life balance",
+        "Psychological work stress",
+        "Health & well being"
+    ],
+    "SegmentsCount": [
+        6,
+        5,
+        5,
+        5,
+        5,
+        5
+    ],
+    "Symptoms": [
+        "Listed below is a set of common symptoms of stress. The more often you experience these symptoms, the more likely stress is having a negative impact on your life.\n\nSelect the symptoms that you have.",
+        "I have neck/back pain most often",
+        "I am exhausted/fatigue daily",
+        "I have loss of appetite often",
+        "I can't sleep most of the times",
+        "I have negative thoughts often",
+        "I am overthinking most of the times",
+        "I have difficulty remembering/recalling information",
+        "I am easily irritated or angered",
+        "I feel decrease in my motivation/cofidence levels",
+        "I feel like quitting the job at times"
+    ],
+    "feedback": [
+        "You might have to seek professional help to manage stress.",
+        "Your stress is tilting towards the higher end. Take active charge of your work and life. You might want to take some professional help too.",
+        "Great job at the personal front! But you have to control your work stress levels. How about reducing work load a bit?",
+        "Work stress seems okayish, but a bit more active management would help. Take charge of your personal life and beat that stress!",
+        "A little more active management on work and life and you are there!",
+        "Great job at the personal front! Try reflecting the same in your work too. Taking regular breaks at work might help.",
+        "You need to take charge of your mind and body. Its time to fight personal stress!",
+        "Keep going.. You could take a bit more effort on the personal front. You are almost there!",
+        "Great job! Stress doesn\u2019t seem to be an issue for you at all."
+    ],
+    "version": "v3.0i"
+}
